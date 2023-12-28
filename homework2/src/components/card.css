@@ -1,0 +1,84 @@
+.lk{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction:  column;
+}
+.card {
+    width: 327px;
+    height: 442px;
+    border-radius: 0px, 0px, 8px, 8px;
+    background: rgba(226, 134, 37, 1);
+    border-radius: 8px;    
+}
+
+.tx {
+    font-family: Lexend Deca;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0px;
+    text-align: left;
+    width: 231px;
+    height: 125px;
+    opacity: 0.75px;
+    margin-left: 30px;
+    
+}
+
+.sd {
+    font-family: Big Shoulders Display;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0px;
+    text-align: left;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.green {
+    background: rgba(0, 105, 113, 1);
+
+}
+
+.mgreen {
+    background: rgba(0, 65, 64, 1);
+}
+
+.yt {
+    background: rgba(226, 134, 37, 1);
+}
+
+.op {
+    width: 103px;
+    height: 44px;
+    background-color: white;
+    border-radius: 50px;
+    margin-left: 25px;
+}
+
+.ln {
+    font-family: Lexend Deca;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0px;
+    text-align: left;
+    width: 103px;
+    height: 44px;
+    color: grey;
+    margin-left: 10px;
+     padding-top: 10px;
+}
+.op:hover{
+    background: rgba(0, 65, 64, 1);
+
+}
+.ln:hover{
+    color: white;
+}
+img{
+    margin-top: 40px;
+    margin-left: 30px;
+}
